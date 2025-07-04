@@ -19,4 +19,17 @@ A simple RESTful Book Management API built using **Node.js** and **Express**. It
 ```bash
 git clone https://github.com/yourusername/bookify.git
 cd bookify
+```
+2. Install dependencies
+
+```bash
+npm install
+```
+3. Start the server
+
+```bash
+npm start
+```
+   
+
 
